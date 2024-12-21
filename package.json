@@ -1,0 +1,29 @@
+{
+  "name": "cipher-toolkit",
+  "version": "1.0.0",
+  "description": "Basic ciphers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mutahir-muhammad/cipher-toolkit.git"
+  },
+  "keywords": [
+    "additive",
+    "cipher",
+    "multiplicative",
+    "cipher",
+    "affine",
+    "cipher",
+    "brute",
+    "force"
+  ],
+  "author": "Muhammad Mutahir (mutahir23)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mutahir-muhammad/cipher-toolkit/issues"
+  },
+  "homepage": "https://github.com/mutahir-muhammad/cipher-toolkit#readme"
+}
